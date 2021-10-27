@@ -1,0 +1,4 @@
+Lance os dados: O jogador atual deve lançar os dados e, em seguida, um número aleatório será gerado. Se o jogador atual obtiver qualquer número diferente de 1 nos dados , esse número será adicionado à pontuação atual ( inicialmente a pontuação atual será 0 ) e, em seguida, a nova pontuação será exibida na seção Pontuação Atual .  
+Nota: Se o jogador atual obtiver 1 nos dados , os jogadores serão trocados, ou seja, o jogador atual ficará inativo e vice-versa.
+Hold: Se o jogador atual clicar em HOLD , então a Pontuação Atual será adicionada à Pontuação Total . Quando o jogador ativo clica no botão Manter, a pontuação total é avaliada. Se a pontuação total> = 100 , o jogador atual vence, caso contrário, os jogadores são trocados.
+Reiniciar: Todas as pontuações são definidas como 0 e o Jogador 1 é definido como o jogador inicial (jogador atual).
